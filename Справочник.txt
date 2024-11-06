@@ -1,0 +1,14 @@
+https://www.c-cpp.ru/books/operatory-ukazaniya-i
+https://devhops.ru/code/cpp/multiple_files.php#noheader
+https://www.google.com/search?q=stdio.h+c%2B%2B&sca_esv=08789aaee8a69d76&sxsrf=ADLYWIIQIaONjnbC8HOe4PZ1uKXfy1spsQ:1730882566565&udm=2&source=iu&ictx=1&vet=1&fir=Ivm8vahoXhxpMM%252CJ6bqvC4ebxaNEM%252C%252Fm%252F0bb4v5%253BOT2Jx-OaYxwxfM%252CjN_v5XJZ2lLKMM%252C_%253BIi5bLmIptjKsGM%252Ca9U46vj_GjSw9M%252C_%253BjE92Cz9vY9en_M%252CI9kVdmRu-HOrsM%252C_&usg=AI4_-kRJs21kbT3bbCsd0X-sFwy7isrIJg&sa=X&ved=2ahUKEwjIv5yEqMeJAxVGL0QIHfhnI5AQ_B16BAg7EAE#vhid=Ivm8vahoXhxpMM&vssid=mosaic
+https://github.com/
+https://journal.top-academy.ru/ru/main/library/page/index/2
+https://www.google.com/search?q=vector+c%2B%2B&oq=vector+&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIHCAAQABiPAjIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAuGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMzQ0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+https://ps-group.github.io/cxx/cxx_simple_class
+https://learn.microsoft.com/ru-ru/cpp/cpp/do-while-statement-cpp?view=msvc-170
+https://www.google.com/search?q=switch+c%2B%2B&oq=switch+&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQLhiABDINCAYQLhjHARjRAxiABDIGCAcQRRg80gEIMjk4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+https://ru.stackoverflow.com/questions/801473/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-cin-ignore
+https://s3.top-academy.tech/omni/materials/GYFIDnh_rxRn4V-9B2PP8fjEOb_2pHTQ.pdf?response-content-disposition=inline%3B%20filename%3D%22FP_urok_16_new_1588841718.pdf%22
+https://metanit.com/cpp/tutorial/7.4.php
+
+And etc.
