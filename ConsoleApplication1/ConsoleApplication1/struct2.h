@@ -43,11 +43,15 @@ struct ToDoList {
         cout << "Enter task due date (YYYY-MM-DD): ";
         getline(cin, dueDate);
 
-        tasks[taskCount++] = Task(name, description, dueDate);
+        tasks[taskCount].name = name;
+        tasks[taskCount].description = description;
+        tasks[taskCount].dueDate = dueDate;
+        tasks[taskCount].completed = false; // Установка значения по умолчанию, если нужно
+        taskCount++; // Увеличение счетчика задач
         cout << "Task added successfully!" << endl;
     }
 
-    //  Удалить задачу
+    // Удалить задачу
     void deleteTask()
     {
         if (taskCount == 0) {

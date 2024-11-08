@@ -8,67 +8,71 @@ C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8): er
 C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(8,10): error C2079: "ToDoList::tasks" использует не имеющую определения структуру struct "Task"
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(46,26): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(46,24): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(46,34): error C2027: использование неопределенного типа "Task"
-  (компиляция исходного файла "ConsoleApplication1.cpp")
-      C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
-       см. объявление "Task"
-  
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(59,45): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(47,24): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(67,24): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(48,24): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(67,39): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(49,24): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(87,20): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(63,45): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(100,45): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(71,24): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(107,33): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(71,39): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(124,45): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(91,20): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(130,46): error C2109: для индекса требуется массив или указатель
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(104,45): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(130,24): error C2530: task: ссылки должны быть инициализированы
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(111,33): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(133,20): error C2027: использование неопределенного типа "Task"
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(128,45): error C2109: для индекса требуется массив или указатель
   (компиляция исходного файла "ConsoleApplication1.cpp")
-      C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
-       см. объявление "Task"
+  
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(134,46): error C2109: для индекса требуется массив или указатель
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(134,24): error C2530: task: ссылки должны быть инициализированы
+  (компиляция исходного файла "ConsoleApplication1.cpp")
   
 C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(137,20): error C2027: использование неопределенного типа "Task"
   (компиляция исходного файла "ConsoleApplication1.cpp")
       C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
        см. объявление "Task"
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(140,20): error C2027: использование неопределенного типа "Task"
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(141,20): error C2027: использование неопределенного типа "Task"
   (компиляция исходного файла "ConsoleApplication1.cpp")
       C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
        см. объявление "Task"
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(143,13): error C2027: использование неопределенного типа "Task"
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(144,20): error C2027: использование неопределенного типа "Task"
   (компиляция исходного файла "ConsoleApplication1.cpp")
       C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
        см. объявление "Task"
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(144,13): error C2027: использование неопределенного типа "Task"
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(147,13): error C2027: использование неопределенного типа "Task"
   (компиляция исходного файла "ConsoleApplication1.cpp")
       C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
        см. объявление "Task"
   
-C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(145,13): error C2027: использование неопределенного типа "Task"
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(148,13): error C2027: использование неопределенного типа "Task"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+      C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
+       см. объявление "Task"
+  
+C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct2.h(149,13): error C2027: использование неопределенного типа "Task"
   (компиляция исходного файла "ConsoleApplication1.cpp")
       C:\Users\aleks\Desktop\ConsoleApplication1\ConsoleApplication1\struct.h(5,8):
        см. объявление "Task"

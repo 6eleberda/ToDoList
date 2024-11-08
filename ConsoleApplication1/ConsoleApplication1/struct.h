@@ -3,18 +3,12 @@
 using namespace std;
 
 struct Task {
-    string name; // Название задачи
-    string description; // Описание задачи
-    string dueDate; //Срок выполнения задачи
-    bool completed; // Статус выполнения задачи
-
+    string name = "";          // Название задачи по умолчанию — пустая строка
+    string description = "";    // Описание задачи по умолчанию — пустая строка
+    string dueDate = "";        // Срок выполнения задачи по умолчанию — пустая строка
+    bool completed = false;
     //Отображение информации о задаче
-    Task(const string& name = "", const string& description = "", const string& dueDate = "")
-        : name(name)
-        , description(description)
-        , dueDate(dueDate)
-        , completed(false)
-    {}
+  
 
     // Отображение информации о задаче
     void displayTask() const
